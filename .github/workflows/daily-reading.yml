@@ -1,0 +1,46 @@
+name: Daily verified reading
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 22 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: wanshitong-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify today's original and update reading feed
+        run: python3 reading/publish.py --output daily.json
+      - name: Persist verified reading metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update verified daily reading"
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Prepare public app assets only
+        run: |
+          mkdir -p _site
+          cp index.html app.js app.css logo.png manifest.webmanifest sw.js daily.json _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy installation page and reading feed
+        id: deployment
+        uses: actions/deploy-pages@v4
