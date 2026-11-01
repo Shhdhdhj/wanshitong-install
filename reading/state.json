@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "seen": {
+    "c7a365713d39762558c2d0f66e4bce315e171a6013c20076464f780a699ebf5a": {
+      "id": "poem-wangwei-rain",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "0b3670e67608feb13d12a4e6fbe6e9adcdd745001bffd94b7179db87644fa524": {
+      "id": "history-ming-cabinet",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "8d4e6a3506d48a5110369d1382fc3faf0b0fe546ed9bfac81bf4f7c05c602013": {
+      "id": "diamond-giving",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "3a59e927e07cfb671b022972253c47c8ab0d370a65ffe71c58b296b10bb4c590": {
+      "id": "yangming-knowledge",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "7b5e1c1c4c6f48337349674543ff848ef207c2f7648f3223cff783a3b0331a98": {
+      "id": "zen-no-thought",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "65b1320c0f0eb0ccc687e75ae92a910edee8e50c3b86dce82b618a62e45928fd": {
+      "id": "nvh-wave",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "e6e44c5429913a2899d0f6d610e85c7c8eefdfd889bc97c683da31adfd0427fe": {
+      "id": "poem-libai-boat",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "67b36f1dfa043d75c9532d43a8a3f7aa9597b69b66e86f612a352ee1267fa55f": {
+      "id": "history-yuqian-duty",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "ce04c1109f5096472ac576803d151dbe07b751665d7e4debffeb46ed0c221c15": {
+      "id": "diamond-form",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "75ec37abc147ec5ad4d822d01a3d4c3e21ad274d5066465abeab0fc30a21aaa3": {
+      "id": "yangming-practice",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "c104495a56a4a7ec0a46bbd7e13d05d731be47b5226d047169718dbfe49c8316": {
+      "id": "zen-concentration",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "03f4e85a33641fbe0a5e82a6e1ae6b3053f63dbab504fb3b89ce32c18eef7eb5": {
+      "id": "nvh-level",
+      "date": "2026-11-01",
+      "seed": true
+    },
+    "4ea643a8d6d261923aa59d9f3c084806ee60f8e5fbbc39d3996800cff17a17b5": {
+      "id": "original-4ea643a8d6d261923aa5",
+      "date": "2026-11-01"
+    }
+  },
+  "editions": {
+    "2026-11-01": "original-4ea643a8d6d261923aa5"
+  },
+  "cursors": {
+    "诗词": 1
+  }
+}

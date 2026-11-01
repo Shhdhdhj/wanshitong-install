@@ -1,13 +1,42 @@
 {
-  "schemaVersion": 1,
-  "mode": "curated",
+  "schemaVersion": 2,
+  "mode": "daily-originals",
   "publishedFor": "2026-11-01",
-  "publishedAt": "2026-11-01T12:07:21+00:00",
-  "currentId": "poem-wangwei-rain",
-  "cycle": 1,
+  "publishedAt": "2026-11-01T12:18:24+00:00",
+  "currentId": "original-4ea643a8d6d261923aa5",
   "isReview": false,
-  "libraryNotice": "首批12篇详解按日轮换推荐；原文联网核验。翻译与解读为预先整理内容，不是每天由AI自动新写。后续可扩充内容库。",
+  "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-4ea643a8d6d261923aa5",
+      "kind": "original",
+      "category": "诗词",
+      "title": "下終南山過斛斯山人宿置酒",
+      "author": "李白",
+      "work": "下終南山過斛斯山人宿置酒",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "暮從碧山下，山月隨人歸。\n卻顧所來徑，蒼蒼橫翠微。\n相攜及田家，童稚開荊扉。\n綠竹入幽徑，青蘿拂行衣。\n歡言得所憩，美酒聊共揮。\n長歌吟松風，曲盡河星稀。\n我醉君復樂，陶然共忘機。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-01",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "下終南山過斛斯山人宿置酒",
+        "url": "https://zh.wikisource.org/wiki/%E4%B8%8B%E7%B5%82%E5%8D%97%E5%B1%B1%E9%81%8E%E6%96%9B%E6%96%AF%E5%B1%B1%E4%BA%BA%E5%AE%BF%E7%BD%AE%E9%85%92",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "1546377",
+        "sourceUpdatedAt": "2019-03-03T09:24:15Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=1546377",
+        "verifiedAt": "2026-11-01T12:18:24+00:00",
+        "quoteSHA256": "4be8fefc1e49520b29d2b7b08f1f70bc2fe2847d5e0970d02353706ef16a2496"
+      },
+      "contentHash": "4ea643a8d6d261923aa59d9f3c084806ee60f8e5fbbc39d3996800cff17a17b5"
+    },
     {
       "id": "poem-wangwei-rain",
       "category": "诗词",
@@ -24,7 +53,7 @@
         "revision": "2276100",
         "sourceUpdatedAt": "2023-04-21T22:13:21Z",
         "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2276100",
-        "verifiedAt": "2026-11-01T12:07:21+00:00",
+        "verifiedAt": "2026-11-01T11:58:22+00:00",
         "quoteSHA256": "3d4b104ee65c7cb4a431f7617c52832f56d701fa0d3989cffe4bf246f50a4c55"
       },
       "original": "空山新雨後，天氣晚來秋。\n明月松間照，清泉石上流。\n竹喧歸浣女，蓮動下漁舟。\n隨意春芳歇，王孫自可留。",
@@ -536,5 +565,6 @@
       "minutes": 6
     }
   ],
-  "verificationErrors": []
+  "verificationErrors": [],
+  "totalOriginalsPublished": 1
 }

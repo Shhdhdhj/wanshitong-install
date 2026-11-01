@@ -61,6 +61,10 @@ def main():
  catalog=json.loads((ROOT/'catalog.json').read_text(encoding='utf-8'))
  target=Path(args.output);old=json.loads(target.read_text(encoding='utf-8'))if target.exists()else{}
  day=datetime.date.fromisoformat(args.date)if args.date else datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date()
+ if not args.all:
+  from originals import publish_daily
+  publish_daily(catalog,target,day)
+  return
  result=produce(catalog,old,day,all_entries=args.all)
  target.parent.mkdir(parents=True,exist_ok=True);temporary=target.with_suffix('.tmp');temporary.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');temporary.replace(target)
  print(json.dumps({'publishedFor':result['publishedFor'],'cards':len(result['cards']),'currentId':result['currentId'],'verificationErrors':result['verificationErrors']},ensure_ascii=False))
