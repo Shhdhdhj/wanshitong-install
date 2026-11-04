@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-03",
-  "publishedAt": "2026-11-03T03:28:31+00:00",
-  "currentId": "original-a4fbc06d69c97b87ec92",
+  "publishedFor": "2026-11-04",
+  "publishedAt": "2026-11-04T02:18:08+00:00",
+  "currentId": "original-39102a6e56f3779837d2",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-39102a6e56f3779837d2",
+      "kind": "original",
+      "category": "禅宗",
+      "title": "六祖壇經/付囑品（节选） · 正文",
+      "author": "传统题慧能说法；具体版本见原文页",
+      "work": "六祖壇經/付囑品（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "師，一日喚門人法海、志誠、法達、神會、智常、智通、志徹、志道、法珍、法如等曰：『汝等不同餘人，吾滅度後，各為一方師。吾今教汝說法，不失本宗，先須舉三科法門，動用三十六對，出沒即離兩邊，說一切法莫離自性。忽有人問汝法，出語盡雙，皆取對法，來去相因，究竟三法盡除，更無去處。』",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-04",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "六祖壇經/付囑品",
+        "url": "https://zh.wikisource.org/wiki/%E5%85%AD%E7%A5%96%E5%A3%87%E7%B6%93/%E4%BB%98%E5%9B%91%E5%93%81",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2638016",
+        "sourceUpdatedAt": "2025-12-31T08:53:02Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2638016",
+        "verifiedAt": "2026-11-04T02:18:08+00:00",
+        "quoteSHA256": "7271873107c1e72f9cf48a41700e2678b005c21bf70a9821924d7a8a0ecb6212"
+      },
+      "contentHash": "39102a6e56f3779837d24eb0f926c7e23f824401b181c74e92498097dadab3eb"
+    },
     {
       "id": "original-a4fbc06d69c97b87ec92",
       "kind": "original",
@@ -626,5 +656,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 3
+  "totalOriginalsPublished": 4
 }

@@ -72,16 +72,22 @@
     "a4fbc06d69c97b87ec92eeb56fb4c2ff8effd44ae02ad9aebcfb5078f04a1550": {
       "id": "original-a4fbc06d69c97b87ec92",
       "date": "2026-11-03"
+    },
+    "39102a6e56f3779837d24eb0f926c7e23f824401b181c74e92498097dadab3eb": {
+      "id": "original-39102a6e56f3779837d2",
+      "date": "2026-11-04"
     }
   },
   "editions": {
     "2026-11-01": "original-4ea643a8d6d261923aa5",
     "2026-11-02": "original-3e0609240ecdd03f39e7",
-    "2026-11-03": "original-a4fbc06d69c97b87ec92"
+    "2026-11-03": "original-a4fbc06d69c97b87ec92",
+    "2026-11-04": "original-39102a6e56f3779837d2"
   },
   "cursors": {
     "诗词": 1,
     "明代历史": 0,
-    "王阳明": 0
+    "王阳明": 0,
+    "禅宗": 0
   }
 }
