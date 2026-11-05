@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-04",
-  "publishedAt": "2026-11-04T02:18:08+00:00",
-  "currentId": "original-39102a6e56f3779837d2",
+  "publishedFor": "2026-11-05",
+  "publishedAt": "2026-11-05T02:23:46+00:00",
+  "currentId": "original-9f901f4413923dba25d3",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-9f901f4413923dba25d3",
+      "kind": "original",
+      "category": "金刚经",
+      "title": "金剛般若波羅蜜經 (鳩摩羅什)（节选） · 正文",
+      "author": "鸠摩罗什译",
+      "work": "金剛般若波羅蜜經 (鳩摩羅什)（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "無上甚深微妙法 百千萬劫難遭遇\n我今見聞得受持 願解如來真實義\n[[File:敦煌唐本金剛經.jpg|thumb|金剛般若波羅蜜經.唐刊刻 發現於敦煌藏經洞的唐咸通九年（公元868年）敦煌雕版印經--金剛般若波羅蜜經是中國現存最早的標有明確刊刻日期的印刷品。1907年被英國人斯坦因盜至英國，現收藏於大英國家圖書館。 水墨紙本 規格：27.6 x 499.5 cm大英圖書館收藏 編號：Or.8210/P.2]]\n[[File:Jingangjing.jpg|thumb|敦煌唐本《金剛經》卷首图及“净口业真言”细节。]]",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-05",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "金剛般若波羅蜜經 (鳩摩羅什)",
+        "url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93%20%28%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80%29",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2621253",
+        "sourceUpdatedAt": "2025-11-22T15:03:26Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2621253",
+        "verifiedAt": "2026-11-05T02:23:46+00:00",
+        "quoteSHA256": "909f91b940fa5a62838e1a8570f42f643c899249b5081b2bb6f23e3aa5cabbaf"
+      },
+      "contentHash": "9f901f4413923dba25d378ad0278ee70185a6665f3175957c2d98f748ff13ed7"
+    },
     {
       "id": "original-39102a6e56f3779837d2",
       "kind": "original",
@@ -656,5 +686,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 4
+  "totalOriginalsPublished": 5
 }
