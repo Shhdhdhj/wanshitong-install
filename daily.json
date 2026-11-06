@@ -1,12 +1,41 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-05",
-  "publishedAt": "2026-11-05T02:23:46+00:00",
-  "currentId": "original-9f901f4413923dba25d3",
+  "publishedFor": "2026-11-06",
+  "publishedAt": "2026-11-06T02:23:58+00:00",
+  "currentId": "original-9fb768ca546da84e1151",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-9fb768ca546da84e1151",
+      "kind": "original",
+      "category": "声学 / NVH",
+      "title": "University Physics Volume 1 · 17-2-speed-of-sound · 17-2-speed-of-sound",
+      "author": "Samuel J. Ling、Jeff Sanny、William Moebs",
+      "work": "University Physics Volume 1 · 17-2-speed-of-sound",
+      "era": "OpenStax 现代物理教材",
+      "original": "Sound, like all waves, travels at a certain speed and has the properties of frequency and wavelength. You can observe direct evidence of the speed of sound while watching a fireworks display (Figure 17.4). You see the flash of an explosion well before you hear its sound and possibly feel the pressure wave, implying both that sound travels at a finite speed and that it is much slower than light.",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-06",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "html",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound",
+        "label": "OpenStax · University Physics Volume 1",
+        "license": "CC BY 4.0；Samuel J. Ling、Jeff Sanny、William Moebs",
+        "revision": null,
+        "sourceUpdatedAt": null,
+        "snapshotURL": "https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound",
+        "verifiedAt": "2026-11-06T02:23:58+00:00",
+        "quoteSHA256": "7c8dcf461a25591402a5a77fc36678b504ff7b535cf75821bb267c806186d469"
+      },
+      "contentHash": "9fb768ca546da84e115146ce02fe3973d37250f9b917f4d24d5a7bdf5e755c5e"
+    },
     {
       "id": "original-9f901f4413923dba25d3",
       "kind": "original",
@@ -686,5 +715,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 5
+  "totalOriginalsPublished": 6
 }
