@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-06",
-  "publishedAt": "2026-11-06T02:23:58+00:00",
-  "currentId": "original-9fb768ca546da84e1151",
+  "publishedFor": "2026-11-07",
+  "publishedAt": "2026-11-07T01:53:41+00:00",
+  "currentId": "original-9bd506916e12c6c2ba70",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-9bd506916e12c6c2ba70",
+      "kind": "original",
+      "category": "诗词",
+      "title": "丹青引贈曹霸將軍",
+      "author": "杜甫",
+      "work": "丹青引贈曹霸將軍",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "將軍魏武之子孫 \n於今為庶為青門 \n英雄割據雖已矣 \n文采風流今尚存 \n學書初學衛夫人 \n但恨無過王右軍 \n丹青不知老將至 \n富貴於我如浮雲 \n開元之中常引見 \n承恩數上南熏殿 \n凌煙功臣少顏色 \n將軍下筆開生面 \n良相頭上進賢冠 \n猛將腰間大羽箭 \n褒公鄂公毛髮動 \n英姿颯爽猶酣戰 \n先帝天馬玉花驄 \n畫工如山貌不同 \n是日牽來赤墀下 \n迥立閶闔生長風 \n詔謂將軍拂絹素 \n意匠慘淡經營中 \n斯須九重真龍出 \n一洗萬古凡馬空 \n玉花卻在御榻上\n榻上庭前屹相向\n至尊含笑催賜金\n圉人太僕皆惆悵\n弟子韓幹早入室\n亦能畫馬窮殊相\n幹惟畫肉不畫骨\n忍使驊騮氣凋喪\n將軍畫善蓋有神\n必逢佳士亦寫真\n即今漂泊干戈際 \n屢貌尋常行路人 \n塗窮反遭俗眼白 \n世上未有如公貧 \n但看古來盛名下 \n終日坎壈纏其身",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-07",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "丹青引贈曹霸將軍",
+        "url": "https://zh.wikisource.org/wiki/%E4%B8%B9%E9%9D%92%E5%BC%95%E8%B4%88%E6%9B%B9%E9%9C%B8%E5%B0%87%E8%BB%8D",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "1750019",
+        "sourceUpdatedAt": "2019-11-05T21:17:27Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=1750019",
+        "verifiedAt": "2026-11-07T01:53:41+00:00",
+        "quoteSHA256": "6f718575d8689d5d304f98831b3526c3529f0769654aa3d6cdeb515d3bade760"
+      },
+      "contentHash": "9bd506916e12c6c2ba70cb2e1daa61def5ef678409998a60d9cf8b019c4f4ff1"
+    },
     {
       "id": "original-9fb768ca546da84e1151",
       "kind": "original",
@@ -715,5 +745,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 6
+  "totalOriginalsPublished": 7
 }
