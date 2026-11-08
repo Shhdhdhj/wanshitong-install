@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-07",
-  "publishedAt": "2026-11-07T01:53:41+00:00",
-  "currentId": "original-9bd506916e12c6c2ba70",
+  "publishedFor": "2026-11-08",
+  "publishedAt": "2026-11-08T01:24:47+00:00",
+  "currentId": "original-e567cd5111f99fcb766c",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-e567cd5111f99fcb766c",
+      "kind": "original",
+      "category": "明代历史",
+      "title": "明史/卷1（节选） · ",
+      "author": "张廷玉等奉敕编修（清修《明史》）",
+      "work": "明史/卷1（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "，旱蝗，大饑疫。太祖時年十七，父母兄相繼歿，貧不克葬。里人劉繼祖與之地，乃克葬，即鳳陽陵也。太祖孤無所依，乃入皇覺寺為僧。逾月，遊食合肥。道病，二紫衣人與俱，護視甚至。病已，失所在。凡歷光、固、汝、潁諸州三年，復還寺。當是時，元政不綱，盜賊四起，劉福通奉韓山童假宋後起潁，徐壽輝僭帝號起蘄，李二、彭大、趙均用起徐，眾各數萬，並置將帥，殺吏，侵略郡縣，而方國珍已先起海上。他盜擁兵據地，寇掠甚眾。天下大亂。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-08",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "明史/卷1",
+        "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2594614",
+        "sourceUpdatedAt": "2025-08-30T13:14:51Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2594614",
+        "verifiedAt": "2026-11-08T01:24:47+00:00",
+        "quoteSHA256": "db6f858b89aa273aa4d38959b45efc70248b8eeeb17e9edbe4155b68b3de408a"
+      },
+      "contentHash": "e567cd5111f99fcb766cf44f5f4c000177887f7cddc5d34a1c56fbede3c20b6f"
+    },
     {
       "id": "original-9bd506916e12c6c2ba70",
       "kind": "original",
@@ -745,5 +775,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 7
+  "totalOriginalsPublished": 8
 }
