@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-08",
-  "publishedAt": "2026-11-08T01:24:47+00:00",
-  "currentId": "original-e567cd5111f99fcb766c",
+  "publishedFor": "2026-11-09",
+  "publishedAt": "2026-11-09T01:42:58+00:00",
+  "currentId": "original-7cf608b67474392c4b0b",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-7cf608b67474392c4b0b",
+      "kind": "original",
+      "category": "王阳明",
+      "title": "傳習錄/卷上（节选） · 徐愛引言",
+      "author": "王守仁及门人；该段具体题署见原书",
+      "work": "傳習錄/卷上（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "愛朝夕炙門下，但見先生之道：即之若易，而仰之愈高；見之若粗，而探之愈精；就之若近，而造之愈益無窮。十餘年來，竟未能窺其藩籬。世之君子，或與先生僅交一面，或猶未聞其謦欬，或先懷忽易憤激之心；而遽欲於立談之間，傳聞之說，臆斷懸度，如之何其可得也？從遊之士，聞先生之教，往往得一而遺二；見其牝牡驪黃而棄其所謂千里者。故愛備錄平日之所聞，私以示夫同志，相與考而正之，庶無負先生之教云。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-09",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "傳習錄/卷上",
+        "url": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2603592",
+        "sourceUpdatedAt": "2025-10-05T05:47:40Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2603592",
+        "verifiedAt": "2026-11-09T01:42:58+00:00",
+        "quoteSHA256": "cd90a3e9cb5976a6f2f6abae0da532118b61dcfb18261075b140618763736f76"
+      },
+      "contentHash": "7cf608b67474392c4b0bc290c9ae71de67111597a22c3c5f6fc55aff85739baa"
+    },
     {
       "id": "original-e567cd5111f99fcb766c",
       "kind": "original",
@@ -775,5 +805,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 8
+  "totalOriginalsPublished": 9
 }
