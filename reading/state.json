@@ -96,6 +96,10 @@
     "7cf608b67474392c4b0bc290c9ae71de67111597a22c3c5f6fc55aff85739baa": {
       "id": "original-7cf608b67474392c4b0b",
       "date": "2026-11-09"
+    },
+    "3ab0112d63bd7e289612fe314088402ad605da80119f87bc43db11a6d067d9c1": {
+      "id": "original-3ab0112d63bd7e289612",
+      "date": "2026-11-10"
     }
   },
   "editions": {
@@ -107,7 +111,8 @@
     "2026-11-06": "original-9fb768ca546da84e1151",
     "2026-11-07": "original-9bd506916e12c6c2ba70",
     "2026-11-08": "original-e567cd5111f99fcb766c",
-    "2026-11-09": "original-7cf608b67474392c4b0b"
+    "2026-11-09": "original-7cf608b67474392c4b0b",
+    "2026-11-10": "original-3ab0112d63bd7e289612"
   },
   "cursors": {
     "诗词": 2,
