@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-10",
-  "publishedAt": "2026-11-10T04:05:59+00:00",
-  "currentId": "original-3ab0112d63bd7e289612",
+  "publishedFor": "2026-11-11",
+  "publishedAt": "2026-11-11T01:54:56+00:00",
+  "currentId": "original-91338b0955f92b9a1bf5",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-91338b0955f92b9a1bf5",
+      "kind": "original",
+      "category": "金刚经",
+      "title": "金剛般若波羅蜜經 (鳩摩羅什)（节选） · 法會因由分第一『說法聚會，由此起因』",
+      "author": "鸠摩罗什译",
+      "work": "金剛般若波羅蜜經 (鳩摩羅什)（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "如是我聞。\n一時，佛在舍衛國祇樹給孤獨園，與大比丘眾千二百五十人俱。\n爾時，世尊食時，著衣持缽，入舍衛大城乞食。\n於其城中，次第乞已，還至本處。\n飯食訖，收衣缽，洗足已，敷座而坐。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-11",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "金剛般若波羅蜜經 (鳩摩羅什)",
+        "url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93%20%28%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80%29",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2621253",
+        "sourceUpdatedAt": "2025-11-22T15:03:26Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2621253",
+        "verifiedAt": "2026-11-11T01:54:56+00:00",
+        "quoteSHA256": "425e283c76ec9ceeb50b0a2deab2d9c76b170545c39fac42a81a2a499ce4bdeb"
+      },
+      "contentHash": "91338b0955f92b9a1bf5962a739537e6c5c6c929e9360ebe9b24e351a15b3036"
+    },
     {
       "id": "original-3ab0112d63bd7e289612",
       "kind": "original",
@@ -835,5 +865,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 10
+  "totalOriginalsPublished": 11
 }
