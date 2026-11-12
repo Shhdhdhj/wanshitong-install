@@ -1,12 +1,41 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-11",
-  "publishedAt": "2026-11-11T01:54:56+00:00",
-  "currentId": "original-91338b0955f92b9a1bf5",
+  "publishedFor": "2026-11-12",
+  "publishedAt": "2026-11-12T02:56:28+00:00",
+  "currentId": "original-d8ea31d1c3b999205632",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-d8ea31d1c3b999205632",
+      "kind": "original",
+      "category": "声学 / NVH",
+      "title": "University Physics Volume 1 · 17-2-speed-of-sound · 17-2-speed-of-sound",
+      "author": "Samuel J. Ling、Jeff Sanny、William Moebs",
+      "work": "University Physics Volume 1 · 17-2-speed-of-sound",
+      "era": "OpenStax 现代物理教材",
+      "original": "The difference between the speed of light and the speed of sound can also be experienced during an electrical storm. The flash of lighting is often seen before the clap of thunder. You may have heard that if you count the number of seconds between the flash and the sound, you can estimate the distance to the source. Every five seconds converts to about one mile. The velocity of any wave is related to its frequency and wavelength by",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-12",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "html",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound",
+        "label": "OpenStax · University Physics Volume 1",
+        "license": "CC BY 4.0；Samuel J. Ling、Jeff Sanny、William Moebs",
+        "revision": null,
+        "sourceUpdatedAt": null,
+        "snapshotURL": "https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound",
+        "verifiedAt": "2026-11-12T02:56:28+00:00",
+        "quoteSHA256": "73960765199922cc3e0579bce1d9b55f75c3dbed9c695f365209b6b488ee1d0f"
+      },
+      "contentHash": "d8ea31d1c3b999205632a77affe9eff8065c33f48ff6d4d82d66584562da17cf"
+    },
     {
       "id": "original-91338b0955f92b9a1bf5",
       "kind": "original",
@@ -865,5 +894,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 11
+  "totalOriginalsPublished": 12
 }
