@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-12",
-  "publishedAt": "2026-11-12T02:56:28+00:00",
-  "currentId": "original-d8ea31d1c3b999205632",
+  "publishedFor": "2026-11-13",
+  "publishedAt": "2026-11-13T02:37:07+00:00",
+  "currentId": "original-6a8b01f75687edfc3361",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-6a8b01f75687edfc3361",
+      "kind": "original",
+      "category": "诗词",
+      "title": "九月九日憶山東兄弟",
+      "author": "王維",
+      "work": "九月九日憶山東兄弟",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "獨在異鄉異客，每逢佳節倍思親。\n遙知兄弟登高處，遍插茱萸少一人。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-13",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "九月九日憶山東兄弟",
+        "url": "https://zh.wikisource.org/wiki/%E4%B9%9D%E6%9C%88%E4%B9%9D%E6%97%A5%E6%86%B6%E5%B1%B1%E6%9D%B1%E5%85%84%E5%BC%9F",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "12232633",
+        "sourceUpdatedAt": "2026-10-28T16:05:25Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=12232633",
+        "verifiedAt": "2026-11-13T02:37:07+00:00",
+        "quoteSHA256": "ca3f9be78c638db4a1f403e23ef18881278eac4acdb4c19f790251543e4b28fd"
+      },
+      "contentHash": "6a8b01f75687edfc3361b8fa4a077db5390e13e2674b56487ee72144b22da93a"
+    },
     {
       "id": "original-d8ea31d1c3b999205632",
       "kind": "original",
@@ -894,5 +924,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 12
+  "totalOriginalsPublished": 13
 }
