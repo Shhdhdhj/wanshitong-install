@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-13",
-  "publishedAt": "2026-11-13T02:37:07+00:00",
-  "currentId": "original-6a8b01f75687edfc3361",
+  "publishedFor": "2026-11-14",
+  "publishedAt": "2026-11-14T02:24:27+00:00",
+  "currentId": "original-13500d8c60e05df3f4f0",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-13500d8c60e05df3f4f0",
+      "kind": "original",
+      "category": "明代历史",
+      "title": "明史/卷1（节选） · ",
+      "author": "张廷玉等奉敕编修（清修《明史》）",
+      "work": "明史/卷1（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "十二年春二月，定遠人郭子興與其黨孫德崖等起兵濠州。元將徹里不花憚不敢攻，而日俘良民以邀賞。太祖時年二十五，謀避兵，卜於神，去留皆不吉。乃曰：「得毋當舉大事乎？」卜之吉，大喜，遂以閏三月甲戌朔入濠見子興。子興奇其狀貌，留為親兵。戰輒勝。遂妻以所撫馬公女，即高皇后也。子興與德崖齟齬，太祖屢調護之。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-14",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "明史/卷1",
+        "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2594614",
+        "sourceUpdatedAt": "2025-08-30T13:14:51Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2594614",
+        "verifiedAt": "2026-11-14T02:24:27+00:00",
+        "quoteSHA256": "9c06427edafb53aa915ed1ba7bd3c1082f57ea81b45244cdd9cc1178c28215b9"
+      },
+      "contentHash": "13500d8c60e05df3f4f032fdfcc2d46663cf5c6d5ae2fc33b7d348425abf8f1f"
+    },
     {
       "id": "original-6a8b01f75687edfc3361",
       "kind": "original",
@@ -924,5 +954,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 13
+  "totalOriginalsPublished": 14
 }
