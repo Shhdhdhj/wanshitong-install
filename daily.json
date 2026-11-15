@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-14",
-  "publishedAt": "2026-11-14T02:24:27+00:00",
-  "currentId": "original-13500d8c60e05df3f4f0",
+  "publishedFor": "2026-11-15",
+  "publishedAt": "2026-11-15T01:52:12+00:00",
+  "currentId": "original-b9bc55e27a29457d62b2",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-b9bc55e27a29457d62b2",
+      "kind": "original",
+      "category": "王阳明",
+      "title": "傳習錄/卷上（节选） · 1",
+      "author": "王守仁及门人；该段具体题署见原书",
+      "work": "傳習錄/卷上（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "先生曰：「『作新民』之『新』是『自新之民』，與『在新民』之『新』不同，此豈足為據?『作』字卻與『親』字相對，然非『新』字義。下面『治國平天下』處，皆於『新』字無發明。如云『君子賢其賢而親其親，小人樂其樂而利其利』、『如保赤子』、『民之所好好之，民之所惡惡之，此之謂民之父母』之類，皆是『親』字意。『親民』猶《孟子》『親親仁民』之謂，『親之』即『仁之』也。『百姓不親』，舜使契為司徒，『敬敷五教』，所以親之也。《堯典》『克明峻德』便是『明明德』，『以親九族』至『平章』、『協和』便是『親民』，便是『明明德於天下』。又如孔子言『修己以安百姓』，『修己』便是『明明德』，『安百姓』便是『親民』。說『親民』便是兼教養意。說『新民』便覺偏了。」",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-15",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "傳習錄/卷上",
+        "url": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2603592",
+        "sourceUpdatedAt": "2025-10-05T05:47:40Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2603592",
+        "verifiedAt": "2026-11-15T01:52:12+00:00",
+        "quoteSHA256": "4ee4a214c8915f9654a0c44075c77248e6200885bcdcbc853042c83f5f03f886"
+      },
+      "contentHash": "b9bc55e27a29457d62b23456e414b0fc206800687df4ba4ab2eb4b1f96cd9a78"
+    },
     {
       "id": "original-13500d8c60e05df3f4f0",
       "kind": "original",
@@ -954,5 +984,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 14
+  "totalOriginalsPublished": 15
 }
