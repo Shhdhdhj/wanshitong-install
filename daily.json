@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-16",
-  "publishedAt": "2026-11-16T02:00:20+00:00",
-  "currentId": "original-671eeea43460bdfaef63",
+  "publishedFor": "2026-11-17",
+  "publishedAt": "2026-11-17T04:28:06+00:00",
+  "currentId": "original-f719036ca05a4612cb4e",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-f719036ca05a4612cb4e",
+      "kind": "original",
+      "category": "金刚经",
+      "title": "金剛般若波羅蜜經 (鳩摩羅什)（节选） · 善現啟請分第二『善現長老，啟請佛訓』",
+      "author": "鸠摩罗什译",
+      "work": "金剛般若波羅蜜經 (鳩摩羅什)（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "時，長老須菩提，在大眾中，即從座起，偏袒右肩，右膝著地，合掌恭敬。而白佛言：\n「希有世尊！如來善護念諸菩薩，善付囑諸菩薩。\n世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？云何降伏其心？」",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-17",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "金剛般若波羅蜜經 (鳩摩羅什)",
+        "url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93%20%28%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80%29",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2621253",
+        "sourceUpdatedAt": "2025-11-22T15:03:26Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2621253",
+        "verifiedAt": "2026-11-17T04:28:06+00:00",
+        "quoteSHA256": "a42b58831f11e3634db4edabd99d52025144f33afb7f9c24b4be14956e19c57a"
+      },
+      "contentHash": "f719036ca05a4612cb4ee871440112f88b0834e072ff03d215e7faafabea8a06"
+    },
     {
       "id": "original-671eeea43460bdfaef63",
       "kind": "original",
@@ -1014,5 +1044,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 16
+  "totalOriginalsPublished": 17
 }
