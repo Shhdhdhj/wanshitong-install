@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-18",
-  "publishedAt": "2026-11-18T03:42:08+00:00",
-  "currentId": "original-91f01a9325885c44832f",
+  "publishedFor": "2026-11-19",
+  "publishedAt": "2026-11-19T03:21:47+00:00",
+  "currentId": "original-cd8b4d5b6347bd87be2d",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-cd8b4d5b6347bd87be2d",
+      "kind": "original",
+      "category": "诗词",
+      "title": "何滿子 (張祜)",
+      "author": "張祜",
+      "work": "何滿子 (張祜)",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "故國三千里\n深宮二十年\n一聲何滿子\n雙淚落君前",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-19",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "何滿子 (張祜)",
+        "url": "https://zh.wikisource.org/wiki/%E4%BD%95%E6%BB%BF%E5%AD%90%20%28%E5%BC%B5%E7%A5%9C%29",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "1984495",
+        "sourceUpdatedAt": "2020-11-02T10:28:07Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=1984495",
+        "verifiedAt": "2026-11-19T03:21:47+00:00",
+        "quoteSHA256": "80ba699b747b22703da963a8c09ee1da92059a74a9a22f9c6ae685fd76b9d090"
+      },
+      "contentHash": "cd8b4d5b6347bd87be2d889f253bc56a0901e8bd62ad5dcf000ed710baddc026"
+    },
     {
       "id": "original-91f01a9325885c44832f",
       "kind": "original",
@@ -1073,5 +1103,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 18
+  "totalOriginalsPublished": 19
 }
