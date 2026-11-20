@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-19",
-  "publishedAt": "2026-11-19T03:21:47+00:00",
-  "currentId": "original-cd8b4d5b6347bd87be2d",
+  "publishedFor": "2026-11-20",
+  "publishedAt": "2026-11-20T03:08:56+00:00",
+  "currentId": "original-3d73710fd9517ca3b65e",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-3d73710fd9517ca3b65e",
+      "kind": "original",
+      "category": "明代历史",
+      "title": "明史/卷1（节选） · ",
+      "author": "张廷玉等奉敕编修（清修《明史》）",
+      "work": "明史/卷1（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "秋九月，元兵復徐州，李二走死，彭大、趙均用奔濠，德崖等納之。子興禮大而易均用，均用怨之。德崖遂與謀，伺子興出，執而械諸孫氏，將殺之。太祖方在淮北，聞難馳至，訴於彭大。大怒，呼兵以行，太祖亦甲而擁盾，發屋出子興，破械，使人負以歸，遂免。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-20",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "明史/卷1",
+        "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2594614",
+        "sourceUpdatedAt": "2025-08-30T13:14:51Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2594614",
+        "verifiedAt": "2026-11-20T03:08:56+00:00",
+        "quoteSHA256": "592f563f0e7a841e65e4fcc23cf16da5f803d5d944c387506224ce2b6552a185"
+      },
+      "contentHash": "3d73710fd9517ca3b65eb0ce165f0500905752d86e0853241652c4a4c5cea973"
+    },
     {
       "id": "original-cd8b4d5b6347bd87be2d",
       "kind": "original",
@@ -1103,5 +1133,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 19
+  "totalOriginalsPublished": 20
 }
