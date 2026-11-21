@@ -140,6 +140,10 @@
     "3d73710fd9517ca3b65eb0ce165f0500905752d86e0853241652c4a4c5cea973": {
       "id": "original-3d73710fd9517ca3b65e",
       "date": "2026-11-20"
+    },
+    "aa475ad3eb4556ebd542f8b35c5b38cb8c86c361d862be81fdade1a93324661d": {
+      "id": "original-aa475ad3eb4556ebd542",
+      "date": "2026-11-21"
     }
   },
   "editions": {
@@ -162,7 +166,8 @@
     "2026-11-17": "original-f719036ca05a4612cb4e",
     "2026-11-18": "original-91f01a9325885c44832f",
     "2026-11-19": "original-cd8b4d5b6347bd87be2d",
-    "2026-11-20": "original-3d73710fd9517ca3b65e"
+    "2026-11-20": "original-3d73710fd9517ca3b65e",
+    "2026-11-21": "original-aa475ad3eb4556ebd542"
   },
   "cursors": {
     "诗词": 5,

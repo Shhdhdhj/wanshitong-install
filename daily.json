@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-20",
-  "publishedAt": "2026-11-20T03:08:56+00:00",
-  "currentId": "original-3d73710fd9517ca3b65e",
+  "publishedFor": "2026-11-21",
+  "publishedAt": "2026-11-21T03:11:58+00:00",
+  "currentId": "original-aa475ad3eb4556ebd542",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-aa475ad3eb4556ebd542",
+      "kind": "original",
+      "category": "王阳明",
+      "title": "傳習錄/卷上（节选） · 3",
+      "author": "王守仁及门人；该段具体题署见原书",
+      "work": "傳習錄/卷上（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "先生嘆曰：「此說之蔽久矣，豈一語所能悟？今姑就所問者言之。且如事父，不成去父上求個孝的理？事君，不成去君上求個忠的理？交友、治民，不成去友上、民上求個信與仁的理？都只在此心，心即理也。此心無私欲之蔽，即是天理，不須外面添一分。以此純乎天理之心：發之事父，便是孝；發之事君，便是忠；發之交友、治民，便是信與仁。只在此心『去人欲、存天理』上用功便是。」",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-21",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "傳習錄/卷上",
+        "url": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2603592",
+        "sourceUpdatedAt": "2025-10-05T05:47:40Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2603592",
+        "verifiedAt": "2026-11-21T03:11:58+00:00",
+        "quoteSHA256": "5e22d4f8fb64df2efeda1cda1d14fd9e652d4567673be1471053b1335f6ce8a2"
+      },
+      "contentHash": "aa475ad3eb4556ebd542f8b35c5b38cb8c86c361d862be81fdade1a93324661d"
+    },
     {
       "id": "original-3d73710fd9517ca3b65e",
       "kind": "original",
@@ -1133,5 +1163,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 20
+  "totalOriginalsPublished": 21
 }
