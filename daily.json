@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-21",
-  "publishedAt": "2026-11-21T03:11:58+00:00",
-  "currentId": "original-aa475ad3eb4556ebd542",
+  "publishedFor": "2026-11-22",
+  "publishedAt": "2026-11-22T02:12:17+00:00",
+  "currentId": "original-3a1c3c7e6127c2ba51b8",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-3a1c3c7e6127c2ba51b8",
+      "kind": "original",
+      "category": "禅宗",
+      "title": "六祖壇經/付囑品（节选） · 正文",
+      "author": "传统题慧能说法；具体版本见原文页",
+      "work": "六祖壇經/付囑品（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "師言：『此三十六對法若解用，即通貫一切經法，出入即離兩邊，自性動用，共人言語，外於相離相，內於空離空。若全著相，即長邪見，若全執空，即長無明。執空之人，有謗經直言不用文字，即云不用文字，人亦不合語言，只此語言，便是文字之相。又云直道不立文字，即此不立兩字，亦是文字，見人所說，便即謗他言著文字。汝等須知，自迷猶可，又謗佛經，不要謗經，罪障無數。若著相於外，而作法求真，或廣立道場，說有無之過患，如是之人，累劫不可見性，但聽依法修行，又莫百物不思，而於道性窒礙。若聽說不修，令人反生邪念，但依法修行，無住相法施。汝等若悟，依此說，依此用，依此行，依此作，即不失本宗。若有人問汝義，問有，將無對；問無，將有對；問凡，以聖對；問聖，以凡對。二道相因，生中道義，汝一問一對，餘問一依此作，即不失理也。設有人問：「何名為暗？」答云：「明是因，暗是緣，明沒則暗，以明顯晦，以暗顯明，來去相因，成中道義。餘問悉皆如此。」汝等於後傳法，依此轉相教授，勿失宗旨。』",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-22",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "六祖壇經/付囑品",
+        "url": "https://zh.wikisource.org/wiki/%E5%85%AD%E7%A5%96%E5%A3%87%E7%B6%93/%E4%BB%98%E5%9B%91%E5%93%81",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2638016",
+        "sourceUpdatedAt": "2025-12-31T08:53:02Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2638016",
+        "verifiedAt": "2026-11-22T02:12:17+00:00",
+        "quoteSHA256": "4793f614aa63b36115ac85a1c3711d74a0786eb9155d1b2111456bb1ab45bfb5"
+      },
+      "contentHash": "3a1c3c7e6127c2ba51b81af4df778f30f759f6284cd4031ba4f0a6205819be30"
+    },
     {
       "id": "original-aa475ad3eb4556ebd542",
       "kind": "original",
@@ -1163,5 +1193,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 21
+  "totalOriginalsPublished": 22
 }
