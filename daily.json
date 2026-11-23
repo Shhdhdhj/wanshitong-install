@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-22",
-  "publishedAt": "2026-11-22T02:12:17+00:00",
-  "currentId": "original-3a1c3c7e6127c2ba51b8",
+  "publishedFor": "2026-11-23",
+  "publishedAt": "2026-11-23T02:42:22+00:00",
+  "currentId": "original-f383f624c463e00e2a49",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-f383f624c463e00e2a49",
+      "kind": "original",
+      "category": "金刚经",
+      "title": "金剛般若波羅蜜經 (鳩摩羅什)（节选） · 大乘正宗分第三『最大之乘，最正之宗』",
+      "author": "鸠摩罗什译",
+      "work": "金剛般若波羅蜜經 (鳩摩羅什)（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "佛告須菩提：「諸菩薩摩訶薩，應如是降伏其心：\n所有一切眾生之類，若卵生、若胎生、若濕生、若化生；\n若有色、若無色；若有想、若無想、若非有想非無想，\n我皆令入無餘涅槃而滅度之。如是滅度無量無數無邊眾生，實無眾生得滅度者。\n何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，即非菩薩。」",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-23",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "金剛般若波羅蜜經 (鳩摩羅什)",
+        "url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93%20%28%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80%29",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2621253",
+        "sourceUpdatedAt": "2025-11-22T15:03:26Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2621253",
+        "verifiedAt": "2026-11-23T02:42:22+00:00",
+        "quoteSHA256": "23380d758cc898c48f072d9a13e06cdab194fae49dcfe9354925d18fa51b7e50"
+      },
+      "contentHash": "f383f624c463e00e2a499336863d55119da5147d5b513868c4689f112550622e"
+    },
     {
       "id": "original-3a1c3c7e6127c2ba51b8",
       "kind": "original",
@@ -1193,5 +1223,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 22
+  "totalOriginalsPublished": 23
 }
