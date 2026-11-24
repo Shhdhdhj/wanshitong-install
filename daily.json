@@ -1,12 +1,41 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-23",
-  "publishedAt": "2026-11-23T02:42:22+00:00",
-  "currentId": "original-f383f624c463e00e2a49",
+  "publishedFor": "2026-11-24",
+  "publishedAt": "2026-11-24T05:58:31+00:00",
+  "currentId": "original-cfaab74e13dc4f03b3d6",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-cfaab74e13dc4f03b3d6",
+      "kind": "original",
+      "category": "声学 / NVH",
+      "title": "University Physics Volume 1 · 17-2-speed-of-sound · 17-2-speed-of-sound",
+      "author": "Samuel J. Ling、Jeff Sanny、William Moebs",
+      "work": "University Physics Volume 1 · 17-2-speed-of-sound",
+      "era": "OpenStax 现代物理教材",
+      "original": "Because the speed of sound depends on the density of the material, and the density depends on the temperature, there is a relationship between the temperature in a given medium and the speed of sound in the medium. For air at sea level, the speed of sound is given by",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-24",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "html",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound",
+        "label": "OpenStax · University Physics Volume 1",
+        "license": "CC BY 4.0；Samuel J. Ling、Jeff Sanny、William Moebs",
+        "revision": null,
+        "sourceUpdatedAt": null,
+        "snapshotURL": "https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound",
+        "verifiedAt": "2026-11-24T05:58:31+00:00",
+        "quoteSHA256": "23daba51d75a5a3d085709685d4f682b8b60bec830758812d42cfec04c0e8554"
+      },
+      "contentHash": "cfaab74e13dc4f03b3d6359e41f6dee32c276e740c1f165a544ac25297231ec8"
+    },
     {
       "id": "original-f383f624c463e00e2a49",
       "kind": "original",
@@ -1223,5 +1252,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 23
+  "totalOriginalsPublished": 24
 }
