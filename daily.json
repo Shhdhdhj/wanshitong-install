@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-24",
-  "publishedAt": "2026-11-24T05:58:31+00:00",
-  "currentId": "original-cfaab74e13dc4f03b3d6",
+  "publishedFor": "2026-11-25",
+  "publishedAt": "2026-11-25T04:52:57+00:00",
+  "currentId": "original-a273cc17641e23d97f7a",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-a273cc17641e23d97f7a",
+      "kind": "original",
+      "category": "诗词",
+      "title": "佳人 (杜甫)",
+      "author": "杜甫",
+      "work": "佳人 (杜甫)",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "絕代有佳人，幽居在空谷。\n自云良家子，零落依草木。\n關中昔喪亂，兄弟遭殺戮。\n官高何足論，不得收骨肉。\n世情惡衰歇，萬事隨轉燭。\n夫婿輕薄兒，新人美如玉。\n合尚知時，鴛鴦不獨宿。\n但見新人笑，那聞舊人哭。\n在山泉水清，出山泉水濁。\n侍婢賣珠迴，牽蘿補茅屋。\n摘花不插髮，采柏動盈掬。\n天寒翠袖薄，日暮倚修竹。",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-25",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "佳人 (杜甫)",
+        "url": "https://zh.wikisource.org/wiki/%E4%BD%B3%E4%BA%BA%20%28%E6%9D%9C%E7%94%AB%29",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "1546605",
+        "sourceUpdatedAt": "2019-03-03T15:21:03Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=1546605",
+        "verifiedAt": "2026-11-25T04:52:57+00:00",
+        "quoteSHA256": "7ef0d78f9e8b7191d95eac66ac9361975ecdf8beca5f45feba8b20eaf8e58cd7"
+      },
+      "contentHash": "a273cc17641e23d97f7a1eda55a0c28180ab66af22cd8338843aa833f9465164"
+    },
     {
       "id": "original-cfaab74e13dc4f03b3d6",
       "kind": "original",
@@ -1252,5 +1282,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 24
+  "totalOriginalsPublished": 25
 }
