@@ -1,12 +1,42 @@
 {
   "schemaVersion": 2,
   "mode": "daily-originals",
-  "publishedFor": "2026-11-26",
-  "publishedAt": "2026-11-26T04:08:19+00:00",
-  "currentId": "original-805dbd25587bd513bd49",
+  "publishedFor": "2026-11-27",
+  "publishedAt": "2026-11-27T04:13:48+00:00",
+  "currentId": "original-e1f7482d834194025be0",
   "isReview": false,
   "libraryNotice": "每天联网发现并发布一篇未发布过的原文，按原文内容去重；不自动生成翻译或解读。现有12篇详解保留。来源失败或暂未发现新篇时保留上次内容，不循环冒充新篇。手机仅缓存最近内容，历史去重记录保存在网站任务中。",
   "cards": [
+    {
+      "id": "original-e1f7482d834194025be0",
+      "kind": "original",
+      "category": "王阳明",
+      "title": "傳習錄/卷上（节选） · 3",
+      "author": "王守仁及门人；该段具体题署见原书",
+      "work": "傳習錄/卷上（节选）",
+      "era": "古籍电子转录，具体时代与版本请核对来源",
+      "original": "先生曰：「如何不講求？只是有個頭腦，只是就此心『去人欲、存天理』上講求。就如：講求『冬溫』，也只是要盡此心之孝，恐怕有一毫人欲間雜；講求『夏凊』，也只是要盡此心之孝，恐怕有一毫人欲間雜；只是講求得此心。此心若無人欲，純是天理，是個誠於孝親的心：冬時自然思量父母的寒，便自要求個溫的道理；夏時自然思量父母的熱，便自要求個凊的道理。這都是那誠孝的心發出來的條件。卻是須有這誠孝的心，然後有這條件發出來。譬之樹木，這誠孝的心便是根，許多條件便是枝葉。須先有根，然後有枝葉；不是先尋了枝葉，然後去種根。《禮記》言：『孝子之有深愛者，必有和氣。有和氣者，必有愉色。有愉色者，必有婉容。』須是有個『深愛』做根，便自然如此。」",
+      "translation": [],
+      "sections": [],
+      "editedAt": "2026-11-27",
+      "commentaryAuthor": "原文自动选编",
+      "commentaryNotice": "此页仅摘取来源原文，未生成翻译、解读或名家评论。",
+      "question": "",
+      "minutes": 1,
+      "source": {
+        "type": "wikisource",
+        "page": "傳習錄/卷上",
+        "url": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+        "label": "维基文库 · 古籍电子转录",
+        "license": "古代原文属公有领域；电子转录与页面信息依维基文库许可",
+        "revision": "2603592",
+        "sourceUpdatedAt": "2025-10-05T05:47:40Z",
+        "snapshotURL": "https://zh.wikisource.org/w/index.php?oldid=2603592",
+        "verifiedAt": "2026-11-27T04:13:48+00:00",
+        "quoteSHA256": "343c2257f1100facbf3a490fbba882e4358311f08a9fb174d9f953ac36f16557"
+      },
+      "contentHash": "e1f7482d834194025be05470cae85bd93d8de3f3a536e91ca1b46e47651678eb"
+    },
     {
       "id": "original-805dbd25587bd513bd49",
       "kind": "original",
@@ -1312,5 +1342,5 @@
     }
   ],
   "verificationErrors": [],
-  "totalOriginalsPublished": 26
+  "totalOriginalsPublished": 27
 }
